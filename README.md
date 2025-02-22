@@ -26,7 +26,6 @@
   </a>
 </p>
 
-
 ---
 
 🌟 **Passionate about building impactful projects at the intersection of computer science and data science.**  
