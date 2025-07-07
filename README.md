@@ -40,7 +40,7 @@ I'm a CS and Statistics student at Rice with a focus on **full-stack development
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <img width="12" />
-  <a href="mailto:chaddiao@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:chaddiao0@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
