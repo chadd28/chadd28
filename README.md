@@ -7,7 +7,7 @@
 
 I'm a CS and Statistics student at Rice with a focus on **full-stack development** and **data science**. I enjoy building fast, clean tools that solve real problems.
 
-**Portfolio →** [↗ chad-diao.vercel.app](https://chad-diao.vercel.app)
+**Portfolio →** [↗ chad-diao](https://chad-diao.vercel.app)
 
 ---
 
